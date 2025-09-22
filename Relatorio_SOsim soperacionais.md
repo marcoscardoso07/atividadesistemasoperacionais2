@@ -5,7 +5,7 @@
 - Nome: Marcos Filipe Sousa Cardoso 
 - Disciplina: Sistemas Operacionais  
 - Ferramenta: SOsim  
-- Data: 22/09/2025
+- Matricula: 25114290035
 
 ## 1. Observações da Simulação (registro)
 - Tempo da simulação analisada: **524** ticks.  
