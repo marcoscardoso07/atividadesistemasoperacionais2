@@ -2,10 +2,10 @@
 # Relatório - Atividade com SOsim
 
 ## Identificação
-- Nome: __________________  
+- Nome: Marcos Filipe Sousa Cardoso 
 - Disciplina: Sistemas Operacionais  
 - Ferramenta: SOsim  
-- Data: __________________
+- Data: 22/09/2025
 
 ## 1. Observações da Simulação (registro)
 - Tempo da simulação analisada: **524** ticks.  
